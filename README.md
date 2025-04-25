@@ -66,18 +66,10 @@ This project is a clean and interactive **Power BI dashboard** built using real-
 - mobile_sales_ppt
 - `README.md`: Project documentation
 
----
-
-## 📸 Dashboard Preview
-
-> *(Add screenshots here if available)*
-
----
-
 ## 🙋‍♂️ Author
 
-**Your Name**  
-📧 your.email@example.com  
+**kaif khan**  
+📧kaifkhan159159@gmail.com  
 🗓️ April 2025
 
 ---
